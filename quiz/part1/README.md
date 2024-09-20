@@ -21,7 +21,7 @@ console.log(angkaPrima(33)); // false
 ```js
 //cari faktor persekutuan terbesar
 function fpb(angka1, angka2) {
-  // you can only write your code here!
+  
 }
 
 // TEST CASES
